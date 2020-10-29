@@ -28,7 +28,7 @@ let package = Package(
         )
     ],
     dependencies: [
-        .package(url: "https://github.com/IBM-Swift/Kitura-TemplateEngine.git", from: "2.0.0")
+        .package(url: "https://github.com/Kitura-Next/Kitura-TemplateEngine.git", from: "2.0.0")
     ],
     targets: [
         .target(
